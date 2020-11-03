@@ -31,8 +31,9 @@ Special thanks to those who contributed or gave helpful suggestions (Github acco
 ### From source
 
 Download TFDeepSurv package and install from the directory (**Python version >= 3.5**):
+tensorflow version < 2.0.0 (disabled this limitation)
 ```bash
-git clone https://github.com/liupei101/TFDeepSurv.git
+git clone https://github.com/texchi2/TFDeepSurv.git
 cd TFDeepSurv
 pip install .
 ```
